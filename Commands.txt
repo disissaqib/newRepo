@@ -1,0 +1,7 @@
+git init
+git remote add origin "link"
+git remote -v
+git status
+git add <files>
+git add --all
+git add .
