@@ -8,3 +8,5 @@ git add .
 git rm --cached <files>
 git config --global user.name "saqib"
 git config --global user.email "saqib.md39@gmail.com"
+git commit -m "Initial Commit"
+git push myorigin master
