@@ -5,3 +5,6 @@ git status
 git add <files>
 git add --all
 git add .
+git rm --cached <files>
+git config --global user.name "saqib"
+git config --global user.email "saqib.md39@gmail.com"
